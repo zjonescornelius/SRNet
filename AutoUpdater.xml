@@ -3,5 +3,4 @@
 <url>https://github.com/zjonescornelius/SRNet/releases/download/v1.0.0.1/Debug.zip</url>
 <checksum algorithm="MD5">Update file Checksum</checksum>
 <mandatory mode="2">true</mandatory>
-AutoUpdater.ReportErrors = true;
 </item>
